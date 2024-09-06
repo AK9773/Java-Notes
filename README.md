@@ -2,4 +2,4 @@
 
 [String](String.md)  
 [Arrays](Array.md)  
-[Collection](CollectionFramework.md)
+[Collection](./collection/CollectionFramework.md)

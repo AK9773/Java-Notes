@@ -1,5 +1,5 @@
 # Java Notes
 
-[String](String.md)
-[Arrays](Array.md)
+[String](String.md)  
+[Arrays](Array.md)  
 [Collection](CollectionFramework.md)
